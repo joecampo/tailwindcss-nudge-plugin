@@ -1,0 +1,14 @@
+{
+  "name": "tailwindcss-nudge-plugin",
+  "version": "0.1.0",
+  "description": "TailwindCSS plugin for pixel nudges",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.15"
+  }
+}
