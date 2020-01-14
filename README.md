@@ -33,7 +33,7 @@ Example: To nudge an element from the top by 3 pixels:
 
 ### Extending the scale
 
-If you'd like to extend or change the pixel scale, you can do so by adding a key for `nudging`in your `tailwind.config.js`file:
+If you'd like to extend or change the pixel scale, you can do so by adding a key for `nudging` in your `tailwind.config.js` file:
 
 ```javascript
 // tailwind.config.js
