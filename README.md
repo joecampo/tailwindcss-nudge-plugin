@@ -6,7 +6,7 @@ Install the plugin with either NPM or Yarn
 
 ```bash
 # NPM
-npm install joecampo/tailwindcss-nudge-plugin —save-dev
+npm install joecampo/tailwindcss-nudge-plugin -—save-dev
 
 # Yarn
 yarn add -D joecampo/tailwindcss-nudge-plugin
